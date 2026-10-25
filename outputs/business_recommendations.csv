@@ -1,0 +1,6 @@
+Area,Finding,Business Interpretation
+Price Elasticity,Estimated elasticity = -5.862,"The fitted model suggests price-sensitive demand, but the estimate is exploratory."
+Model Reliability,LOO elasticity remains negative,The coefficient sign is stable when one observation is omitted at a time.
+Confounding Risk,Price-time correlation = -0.810,Price changes may be associated with time-related demand changes.
+Revenue Strategy,Scenario analysis favors lower prices,Use this only to design controlled pricing experiments; do not treat it as a proven recommendation.
+Profit Optimization,Actual unit cost is unavailable,"Collect verified costs, shipping expenses, discounts, and returns before estimating actual profit."

@@ -1,0 +1,2 @@
+Product,Observations,Estimated Elasticity,HC3 p-value,HAC p-value,R-squared,Price-Time Correlation,LOO Minimum Elasticity,LOO Maximum Elasticity,LOO Sign Changes
+watches1,17,-5.862,0.0003,0.0,0.605,-0.81,-6.917,-5.274,0
