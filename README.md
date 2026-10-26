@@ -313,7 +313,7 @@ Using the leave-one-out elasticity bounds, the revenue index at -20% ranges from
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nayim2003/Price-Elasticity-Profit-Optimization-Analytics.git
+git clone <https://github.com/nayim2003/Price-Elasticity-Profit-Optimization-Analytics.git>
 cd price-elasticity-profit-optimization
 
 # 2. Create and activate a virtual environment
