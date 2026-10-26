@@ -313,7 +313,7 @@ Using the leave-one-out elasticity bounds, the revenue index at -20% ranges from
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/nayim2003/Price-Elasticity-Profit-Optimization-Analytics.git
 cd price-elasticity-profit-optimization
 
 # 2. Create and activate a virtual environment
@@ -381,3 +381,6 @@ The scenario and cost files contain **hypothetical** assumptions and must not be
 ## 15. Disclaimer
 
 This is an exploratory analytics project for educational and portfolio purposes. The findings should not be used to set commercial prices without additional validation, verified cost data and a controlled pricing experiment.
+---
+# **`Md. Nayim Howlader`**
+## **`BSc (Honours) in Statistics`**
